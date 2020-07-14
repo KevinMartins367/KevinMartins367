@@ -9,7 +9,7 @@
 
 
 
-<img all src="https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.jpeg?raw=true" alt="Linkedin" width="360" height="640">
+<img all src="https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.png?raw=true" alt="Linkedin" width="360" height="640">
 
 
 
