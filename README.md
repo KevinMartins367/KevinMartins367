@@ -19,5 +19,3 @@
 - ### **Node.js ^6.4**
 - ### **Typescript**
 - ### **MySQL/Postgresql**
-
-![qrcode](https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.png?raw=true) 
