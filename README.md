@@ -1,3 +1,4 @@
+<img src="https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.png?raw=true" alt="qrcode" align="ringht">
 
 # [**Kevin Martins**](https://api.whatsapp.com/send?phone=5511957713498&text=Ol%C3%A1%20eu%20de%20encontrei%20pelo%20github)
 
@@ -20,17 +21,3 @@
 - ### **MySQL/Postgresql**
 
 ![qrcode](https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.png?raw=true) 
-
-
-|  |  |
-|---------- |---------- |
-| - ### **PHP ^5.4**
-- ### **Codeigniter ^3.0**
-- ### **Laravel ^5.0**
-- ### **Ruby ^2.5**
-- ### **Angular ^2.0**
-- ### **Node.js ^6.4**
-- ### **Typescript**
-- ### **MySQL/Postgresql** 
-| ![qrcode](https://github.com/KevinMartins367/KevinMartins367/blob/master/img/qrcode.png?raw=true) |
-
